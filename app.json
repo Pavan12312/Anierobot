@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/Anieteam/AnieRobot",
+  "repository": "https://github.com/Pavan12312/Anierobot/edit/main/README.md",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
