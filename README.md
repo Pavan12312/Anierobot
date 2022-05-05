@@ -19,9 +19,7 @@
 
 <h2 align="center";>AnieRobot-English</h2>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anieteam/AnieRobot)
-
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pavan12312/Anierobot/edit/main/README.md)
 <h2 align="center";>OWNER</h2>
 
 <p align='center'>   <a href="https://t.me/Godfatherakki"> <img src="https://img.shields.io/badge/Owner-Akki-red?style=for-the-badge&logo=telegram" /></a> </p>
